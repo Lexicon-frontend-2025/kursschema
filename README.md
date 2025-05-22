@@ -11,7 +11,7 @@ Kursens innehåll är omfattande. En rad olika kompetenser och tekniker kommer a
 Under de första fem veckorna behandlar kursen grundläggande HTML och CSS. Vi arbetar med färdigheter för att strukturera webbsidor med semantisk HTML, vilket förbättrar tillgänglighet och SEO. Segmentet täcker även CSS för att skapa attraktiva och responsiva designlösningar.
 
 Veckoscheman:
-* [Vecka 21]()
+* [Vecka 21](https://github.com/Lexicon-frontend-2025/schema-vecka-21/blob/main/README.md)
 * [Vecka 22]()
 * [Vecka 23]()
 * [Vecka 24]()
