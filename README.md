@@ -30,24 +30,24 @@ Veckoscheman:
 Kursen ägnar 4 veckor åt JavaScript, från grundläggande syntax och datatyper till mer avancerade funktkioner och asynkron programmering. Vi kommer även att gå igenom DOM-manipulering vilket är essentiellt för att skapa interaktiva användarupplevelser på webben.
 
 Veckoscheman:
-* [Vecka 27()
-* [Vecka 28()
+* [Vecka 27]()
+* [Vecka 28]()
 * **SOMMARUPPEHÅLL**
-* [Vecka 31()
-* [Vecka 32()
+* [Vecka 31]()
+* [Vecka 32]()
   
 ## React _( 7 veckor )_
 
 Under dessa sju veckor fokuserar kursen på React och Next.js (App Router) för att utveckla moderna webbapplikationer. Vi skapar och hanterar komponenter, använder props för dataflöden samt implementerar hooks, routes och state management.
 
 Veckoscheman:
-* [Vecka 33()
-* [Vecka 34()
-* [Vecka 35()
-* [Vecka 36()
-* [Vecka 37()
-* [Vecka 38()
-* [Vecka 39()
+* [Vecka 33]()
+* [Vecka 34]()
+* [Vecka 35]()
+* [Vecka 36]()
+* [Vecka 37]()
+* [Vecka 38]()
+* [Vecka 39]()
   
 ## Slutprojekt _( 3 veckor )_
 
