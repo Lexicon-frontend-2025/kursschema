@@ -15,7 +15,15 @@ Veckoscheman:
 * [Vecka 23]
 * [Vecka 24]
 * [Vecka 25]
+
+## Typescript/Javascript _( 3 veckor )_
+
+Kursen ägnar 4 veckor åt JavaScript, från grundläggande syntax och datatyper till mer avancerade funktkioner och asynkron programmering. Vi kommer även att gå igenom DOM-manipulering vilket är essentiellt för att skapa interaktiva användarupplevelser på webben.
+
+Veckoscheman:
 * [Vecka 26]
+* [Vecka 27]
+* [Vecka 28]
 
 
 ## Agila projektmetoder _( 1 vecka )_
@@ -23,32 +31,34 @@ Veckoscheman:
 Denna vecka ger en introduktion till agila metoder med fokus på SCRUM. Vi utforskar agila principer som flexibilitet och ständig förbättring. Ni lär er om olika roller inom ett agilt team och hur dessa samverkar för att effektivt driva projekt med ett resultatorienterad mindset.
 
 Veckoscheman:
-* [Vecka 27]
-
-## Typescript/Javascript _( 5 veckor )_
-
-Kursen ägnar 4 veckor åt JavaScript, från grundläggande syntax och datatyper till mer avancerade funktkioner och asynkron programmering. Vi kommer även att gå igenom DOM-manipulering vilket är essentiellt för att skapa interaktiva användarupplevelser på webben.
-
-Veckoscheman:
-* [Vecka 28]
 * [Vecka 29]
-* **SOMMARUPPEHÅLL**
-* [Vecka 32]
-* [Vecka 33]
+
+* **SOMMARUPPEHÅLL I TVÅ VECKOR**
   
-## React _( 7 veckor )_
+## React _( 6 veckor )_
 
 Under dessa sju veckor fokuserar kursen på React och Next.js (App Router) för att utveckla moderna webbapplikationer. Vi skapar och hanterar komponenter, använder props för dataflöden samt implementerar hooks, routes och state management.
 
 Veckoscheman:
+* [Vecka 32]
+* [Vecka 33]
 * [Vecka 34]
 * [Vecka 35]
 * [Vecka 36]
 * [Vecka 37]
+  
+## React grupprojekt _( 3 veckor )_
+
+Veckoscheman:
 * [Vecka 38]
 * [Vecka 39]
 * [Vecka 40]
-  
+
+
 ## Slutprojekt _( 3 veckor )_
+Veckoscheman:
+* [Vecka 41]
+* [Vecka 42]
+* [Vecka 43]
 
 Slutprojektet sträcker sig över tre veckor där ni applicerar allt ni har lärt er under kursens gång i ett så kallat **Passion Project**. Syftet med detta projekt är att skapa något som ni kan använda er utav i era framtida praktik- och jobbansökningar för att öka er anställningsbarhet.
