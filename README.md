@@ -12,17 +12,17 @@ Under de första fem veckorna behandlar kursen grundläggande HTML och CSS. Vi a
 
 Veckoscheman:
 * [Vecka 22](https://github.com/Lexicon-frontend-2025/schema-vecka-21/blob/main/README.md)
-* [Vecka 23]
-* [Vecka 24]
-* [Vecka 25]
+* [Vecka 23](https://github.com/Lexicon-frontend-2025/schema-vecka-23/blob/main/README.md)
+* [Vecka 24](https://github.com/Lexicon-frontend-2025/schema-vecka-24/blob/main/README.md)
+* [Vecka 25](https://github.com/Lexicon-frontend-2025/schema-vecka-25/blob/main/README.md)
 
-## Typescript/Javascript _( 3 veckor )_
+## Typescript/Javascript _( 4 veckor )_
 
 Kursen ägnar 4 veckor åt JavaScript, från grundläggande syntax och datatyper till mer avancerade funktkioner och asynkron programmering. Vi kommer även att gå igenom DOM-manipulering vilket är essentiellt för att skapa interaktiva användarupplevelser på webben.
 
 Veckoscheman:
-* [Vecka 26]
-* [Vecka 27]
+* [Vecka 26](https://github.com/Lexicon-frontend-2025/schema-vecka-26/blob/main/README.md)
+* [Vecka 27](https://github.com/Lexicon-frontend-2025/schema-vecka-27/blob/main/README.md)
 * [Vecka 28]
 
 
