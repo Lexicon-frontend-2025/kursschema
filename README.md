@@ -23,24 +23,23 @@ Kursen ägnar 4 veckor åt TypeScript, från grundläggande syntax och datatyper
 Veckoscheman:
 * [Vecka 26](https://github.com/Lexicon-frontend-2025/schema-vecka-26/blob/main/README.md)
 * [Vecka 27](https://github.com/Lexicon-frontend-2025/schema-vecka-27/blob/main/README.md)
-* [Vecka 28]
+* [Vecka 28](https://github.com/Lexicon-frontend-2025/schema-vecka-28/blob/main/README.md)
+* [Vecka 29]
 
+* **SOMMARUPPEHÅLL I TVÅ VECKOR**
 
 ## Agila projektmetoder _( 1 vecka )_
 
 Denna vecka ger en introduktion till agila metoder med fokus på SCRUM. Vi utforskar agila principer som flexibilitet och ständig förbättring. Ni lär er om olika roller inom ett agilt team och hur dessa samverkar för att effektivt driva projekt med ett resultatorienterad mindset.
 
 Veckoscheman:
-* [Vecka 29]
+* [Vecka 32](https://github.com/Lexicon-frontend-2025/schema-vecka-32/blob/main/README.md)
 
-* **SOMMARUPPEHÅLL I TVÅ VECKOR**
-  
-## React _( 6 veckor )_
+## React/next.js _( 5 veckor )_
 
 Under dessa sju veckor fokuserar kursen på React och Next.js (App Router) för att utveckla moderna webbapplikationer. Vi skapar och hanterar komponenter, använder props för dataflöden samt implementerar hooks, routes och state management.
 
 Veckoscheman:
-* [Vecka 32]
 * [Vecka 33]
 * [Vecka 34]
 * [Vecka 35]
