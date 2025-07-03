@@ -26,7 +26,7 @@ Veckoscheman:
 * [Vecka 28](https://github.com/Lexicon-frontend-2025/schema-vecka-28/blob/main/README.md)
 * [Vecka 29]
 
-* **SOMMARUPPEHÅLL I TVÅ VECKOR**
+**SOMMARUPPEHÅLL I TVÅ VECKOR**
 
 ## Agila projektmetoder _( 1 vecka )_
 
