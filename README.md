@@ -18,7 +18,7 @@ Veckoscheman:
 
 ## Typescript/Javascript _( 4 veckor )_
 
-Kursen ägnar 4 veckor åt JavaScript, från grundläggande syntax och datatyper till mer avancerade funktkioner och asynkron programmering. Vi kommer även att gå igenom DOM-manipulering vilket är essentiellt för att skapa interaktiva användarupplevelser på webben.
+Kursen ägnar 4 veckor åt TypeScript, från grundläggande syntax och datatyper till mer avancerade funktkioner och asynkron programmering. Vi kommer även att gå igenom DOM-manipulering vilket är essentiellt för att skapa interaktiva användarupplevelser på webben.
 
 Veckoscheman:
 * [Vecka 26](https://github.com/Lexicon-frontend-2025/schema-vecka-26/blob/main/README.md)
