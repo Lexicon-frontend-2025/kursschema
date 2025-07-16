@@ -24,7 +24,7 @@ Veckoscheman:
 * [Vecka 26](https://github.com/Lexicon-frontend-2025/schema-vecka-26/blob/main/README.md)
 * [Vecka 27](https://github.com/Lexicon-frontend-2025/schema-vecka-27/blob/main/README.md)
 * [Vecka 28](https://github.com/Lexicon-frontend-2025/schema-vecka-28/blob/main/README.md)
-* [Vecka 29]
+* [Vecka 29](https://github.com/Lexicon-frontend-2025/schema-vecka-29/blob/main/README.md)
 
 **SOMMARUPPEHÅLL I TVÅ VECKOR**
 
