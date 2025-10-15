@@ -40,11 +40,11 @@ Veckoscheman:
 Under dessa sju veckor fokuserar kursen på React och Next.js (App Router) för att utveckla moderna webbapplikationer. Vi skapar och hanterar komponenter, använder props för dataflöden samt implementerar hooks, routes och state management.
 
 Veckoscheman:
-* [Vecka 33]
-* [Vecka 34]
-* [Vecka 35]
-* [Vecka 36]
-* [Vecka 37]
+* [Vecka 33](https://github.com/Lexicon-frontend-2025/schema-vecka-33/blob/main/README.md)
+* [Vecka 34](https://github.com/Lexicon-frontend-2025/schema-vecka-34/blob/main/README.md)
+* [Vecka 35](https://github.com/Lexicon-frontend-2025/schema-vecka-35/blob/main/README.md)
+* [Vecka 36](https://github.com/Lexicon-frontend-2025/schema-vecka-36/blob/main/README.md)
+* [Vecka 37](https://github.com/Lexicon-frontend-2025/schema-vecka-37/blob/main/README.md)
   
 ## React grupprojekt _( 3 veckor )_
 
